@@ -25,3 +25,19 @@ Amigo Secreto es una aplicación web que permite ingresar nombres de amigos y re
 2️⃣ Los nombres se mostrarán en la lista de participantes.  
 3️⃣ Presiona **"Sortear amigo"** para elegir un ganador al azar.  
 
+---
+
+## 🌍 Deployment  
+🔗 La aplicación está desplegada en **GitHub Pages**:  
+➡ **[Sorteo Amigo Secreto - Deployment](https://joanna20carrion.github.io/Sorteo-Amigo-Secreto-App/)**  
+
+---
+
+## 📂 Estructura del Proyecto  
+/amigo-secreto
+│── index.html # Página principal
+│── style.css # Estilos de la app
+│── app.js # Lógica del sorteo
+│── assets/ # Imágenes e íconos
+
+---
