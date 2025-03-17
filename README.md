@@ -20,9 +20,6 @@ Amigo Secreto es una aplicación web interactiva que permite agregar nombres de 
 - Se validan entradas vacías para evitar errores.  
 - Se muestra un listado actualizado en la pantalla.  
 
-🔽 **Ejemplo:**  
-![Agregar Amigos](assets/captura.png)  
-
 ---
 
 ### 🎲 Sorteo aleatorio  
@@ -31,7 +28,7 @@ Amigo Secreto es una aplicación web interactiva que permite agregar nombres de 
 - Se impide el sorteo si la lista está vacía.  
 
 🔽 **Ejemplo:**  
-![Sorteo Amigo Secreto](assets/captura.png)  
+![Sorteo Amigo Secreto](assets/Captura.png)  
 
 ---
 
