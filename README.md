@@ -34,10 +34,24 @@ Amigo Secreto es una aplicación web que permite ingresar nombres de amigos y re
 ---
 
 ## 📂 Estructura del Proyecto  
-/amigo-secreto
-│── index.html # Página principal
-│── style.css # Estilos de la app
-│── app.js # Lógica del sorteo
-│── assets/ # Imágenes e íconos
-
+```md
+📂amigo-secreto
+│── 📜 index.html # Página principal
+│── 📜 style.css # Estilos de la app
+│── 📜 app.js # Lógica del sorteo
+│── 📂 assets/ # Imágenes e íconos
+│── 📜 README.md     # Documentación del proyecto
+```
 ---
+
+## 🎮 Vista Previa
+Puedes ver y probar el juego en tu navegador simplemente abriendo `index.html`.
+
+## Autor
+**Joanna Alexandra Carrión Pérez**: Bachiller de Ingeniería Electrónica. Apasionada por la Ciencia de Datos y la Inteligencia Artificial. [LinkedIn](https://www.linkedin.com/in/joanna-carrion-perez/)
+
+## Contacto
+Para cualquier duda o sugerencia, contáctame a través de **joannacarrion14@gmail.com**.
+
+## Contribuciones
+📌 ¡Contribuciones son bienvenidas! Si tienes ideas o mejoras, no dudes en hacer un fork del repositorio y enviar un pull request.
