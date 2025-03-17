@@ -1,6 +1,4 @@
-# 🎉 Amigo Secreto  
-
-![Amigo Secreto Banner](assets/amigo-secreto.png)
+# 🎉 Sorteo Amigo Secreto
 
 ## 📌 Descripción  
 Amigo Secreto es una aplicación web que permite ingresar nombres de amigos y realizar un sorteo aleatorio. Ideal para juegos, eventos y dinámicas grupales.  
