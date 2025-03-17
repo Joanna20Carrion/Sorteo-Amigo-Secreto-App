@@ -1,34 +1,58 @@
-# 🎉 Sorteo Amigo Secreto
+# 🎉 Amigo Secreto - Sorteo Automático  
+
+![Amigo Secreto Banner](assets/amigo-secreto.png)  
+
+🔗 **[¡Prueba la aplicación aquí!](https://joanna20carrion.github.io/Sorteo-Amigo-Secreto-App/)**  
 
 ## 📌 Descripción  
-Amigo Secreto es una aplicación web que permite ingresar nombres de amigos y realizar un sorteo aleatorio. Ideal para juegos, eventos y dinámicas grupales.  
+Amigo Secreto es una aplicación web interactiva que permite agregar nombres de amigos y sortear de manera aleatoria un "amigo secreto". Es ideal para juegos, intercambios de regalos y eventos grupales.  
+
+✅ **Fácil de usar** - Solo ingresa los nombres y presiona "Sortear".  
+✅ **Dinámico y rápido** - Todo el proceso ocurre en segundos.  
+✅ **Interfaz amigable** - Diseñada para ser intuitiva y atractiva.  
 
 ---
 
-## 🚀 Características  
-✅ Agregar nombres a la lista  
-✅ Visualizar la lista de participantes  
-✅ Realizar el sorteo de forma aleatoria  
-✅ Interfaz amigable y fácil de usar  
+## 🚀 Funcionalidades  
+
+### 📌 Agregar nombres a la lista  
+- Los nombres ingresados se almacenan en una lista dinámica.  
+- Se validan entradas vacías para evitar errores.  
+- Se muestra un listado actualizado en la pantalla.  
+
+🔽 **Ejemplo:**  
+![Agregar Amigos](assets/captura.png)  
+
+---
+
+### 🎲 Sorteo aleatorio  
+- La aplicación selecciona aleatoriamente un amigo secreto.  
+- Se muestra el resultado en pantalla.  
+- Se impide el sorteo si la lista está vacía.  
+
+🔽 **Ejemplo:**  
+![Sorteo Amigo Secreto](assets/captura.png)  
 
 ---
 
 ## 🛠 Tecnologías utilizadas  
-- HTML5  
-- CSS3  
-- JavaScript (DOM Manipulation, Eventos, Math.random())  
+- **HTML5** → Estructura de la aplicación.  
+- **CSS3** → Diseño visual y estilos responsivos.  
+- **JavaScript (DOM, Eventos, Math.random())** → Lógica del sorteo y actualización de la UI.  
 
 ---
 
 ## 🎮 Cómo usar  
-1️⃣ Ingresa el nombre de un amigo y haz clic en **"Añadir"**.  
-2️⃣ Los nombres se mostrarán en la lista de participantes.  
-3️⃣ Presiona **"Sortear amigo"** para elegir un ganador al azar.  
+1️⃣ **Ingresa los nombres** en el campo de texto.  
+2️⃣ **Haz clic en "Añadir"** para agregar los nombres a la lista.  
+3️⃣ **Presiona "Sortear amigo"** y se elegirá un nombre al azar.  
+4️⃣ **¡Listo!** Se mostrará el amigo secreto seleccionado.  
 
 ---
 
 ## 🌍 Deployment  
-🔗 La aplicación está desplegada en **GitHub Pages**:  
+La aplicación está desplegada en **GitHub Pages**. Puedes probarla en el siguiente enlace:  
+
 ➡ **[Sorteo Amigo Secreto - Deployment](https://joanna20carrion.github.io/Sorteo-Amigo-Secreto-App/)**  
 
 ---
