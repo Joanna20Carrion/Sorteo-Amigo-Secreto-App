@@ -4,7 +4,6 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Joanna%20Carri%C3%B3n%20P%C3%A9rez-blue?style=flat&logo=linkedin)
 
 ![Amigo Secreto Banner](assets/amigo-secreto.png)
 
